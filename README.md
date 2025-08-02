@@ -15,7 +15,6 @@ Este proyecto tiene como objetivo analizar los patrones de **churn** (cancelaci�
 - **Python 3.11**
 - **Pandas** – Para análisis y manipulación de datos.
 - **Plotly** y **Seaborn** – Para visualización interactiva y exploratoria.
-- **Jupyter Notebook** – Como entorno de desarrollo principal.
 
 ---
 
